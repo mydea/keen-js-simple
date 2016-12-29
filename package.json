@@ -1,6 +1,6 @@
 {
   "name": "keen-js-simple",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A simple, super lightweight & performance optimized library to track data with Keen.IO",
   "main": "dist/keen.js",
   "scripts": {
