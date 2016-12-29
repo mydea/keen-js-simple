@@ -1,0 +1,17 @@
+{
+  "name": "keen-js-simple",
+  "description": "A simple, super lightweight & performance optimized library to track data with Keen.IO",
+  "main": "dist/keen.js",
+  "authors": [
+    "Francesco Novy <francesco@cropster.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mydea/keen-js-simple",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
